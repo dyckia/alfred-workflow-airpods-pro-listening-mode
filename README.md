@@ -1,5 +1,11 @@
 # AirPods Pro Listening Mode (Alfred Workflow)
 
+## Download
+
+Download the latest stable version [here](https://github.com/dyckia/alfred-workflow-airpods-pro-listening-mode/releases/tag/stable).
+
+## Usage
+
 Control your AirPods Pro's listening mode via Alfred Workflow.
 
 Use `ap` + `1~3` to change your AirPods's listening mode:
