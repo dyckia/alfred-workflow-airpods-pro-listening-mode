@@ -1,4 +1,4 @@
-# AirPods Pro Listening Mode
+# AirPods Pro Listening Mode (Alfred Workflow)
 
 Control your AirPods Pro's listening mode via Alfred Workflow.
 
